@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @dev-Kevo
+- 👋 Hi, I’m @dev-Kevo A.K.A Kevo Mkali!
 - 👀 I’m interested and Passionate in programing mostly in AI, Web Development and Machine leraning!
 - 🌱 I’m currently learning IT at Mount Kenya University,One of the best universities in Kenya.
-- 💞️ I’m looking to collaborate with you on this journey of programing
-- 📫 Reach me through WhatsApp: 0713039524, Instagram: Kevo_254ke, Facebook: Kelvin Samuel
-- #cheers_to_more_years_of_programing
+- 💞️ I’m looking to collaborate with you on this journey of programing.
+- 📫 Reach me through WhatsApp: 0713039524, Instagram: Kevo_254ke, Facebook: Kelvin Samuel.
+- #cheers_to_more_years_of_programing.
 - __makeitwork__
 
 <!---
