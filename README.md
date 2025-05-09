@@ -59,7 +59,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" height="40" alt="celery logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original-wordmark.svg" height="40" alt="celery logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
   <img width="12" />
@@ -70,7 +70,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/HTMX-5A0FC8?logo=htmx&logoColor=white&style=flat" height="40" alt="htmx logo" />
   <img width="12" />
