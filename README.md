@@ -35,17 +35,19 @@
 
 ###
 
-<h3 align="left">🚀  About Me</h3>
-
-###
+<h3 align="left">🚀 About Me</h3>
 
 <p align="left">
-  - 🔭 Building <strong>high-performance web apps</strong> with Django & HTMX<br>
-  - 📚 Mastering <strong>Django REST Framework, Celery, Redis</strong> & <strong>async Python</strong><br>
-  - ⚡ Fun fact: I <strong>automate</strong> repetitive tasks with Python scripts<br>
-  - 💬 Ask me about: <strong>Django optimization, HTMX magic, or Tailwind best practices</strong><br>
-  - 📫 How to reach me: <strong>developerkevo@gmail.com</strong>
+  I'm a passionate full-stack web developer focused on building efficient, scalable, and elegant web solutions. I specialize in the Django ecosystem and modern frontend tools like HTMX and Tailwind CSS, with a growing interest in asynchronous programming and background task management.
 </p>
+
+<ul align="left">
+  <li>🔭 Currently developing <strong>high-performance web applications</strong> using Django and HTMX.</li>
+  <li>📚 Expanding expertise in <strong>Django REST Framework</strong>, <strong>Celery</strong>, <strong>Redis</strong>, and <strong>asynchronous Python</strong>.</li>
+  <li>⚡ I enjoy <strong>automating repetitive tasks</strong> with Python to improve productivity and workflow efficiency.</li>
+  <li>💬 I'm always open to discussions on <strong>Django optimization</strong>, <strong>HTMX integrations</strong>, and <strong>Tailwind CSS best practices</strong>.</li>
+  <li>📫 Reach me at: <strong>developerkevo@gmail.com</strong></li>
+</ul>
 
 ###
 
