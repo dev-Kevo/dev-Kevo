@@ -5,14 +5,20 @@
 ###
 
 <div align="center">
-  <a href="[YOUR_LINKEDIN_URL]" target="_blank">
+  <a href="https://www.linkedin.com/in/kelvin-kimanthi-a06959269/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="[YOUR_TWITTER_URL]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  <a href="https://x.com/DeveloperKevo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
   </a>
-  <a href="[YOUR_PORTFOLIO_URL]" target="_blank">
+  <a href="https://www.instagram.com/dev_kevo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+  <a href="https://kevo.wakalilabs.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+  </a>
+  <a href="mailto:developerkevo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
 
@@ -24,7 +30,7 @@
 
 ###
 
-<h1 align="center">Hey there, I'm Kelvin Kioko 👨‍💻</h1>
+<h1 align="center">Hey there, I'm Kelvin Kioko (Developer Kevo) 👨‍💻</h1>
 <h3 align="center">Fullstack Developer | Python + Django | HTMX + Tailwind CSS</h3>
 
 ###
@@ -34,50 +40,56 @@
 ###
 
 <p align="left">
-  - 🔭 Building <strong>scalable web apps</strong> with Django & HTMX<br>
-  - 📚 Mastering <strong>Django REST Framework</strong> & <strong>performance optimization</strong><br>
-  - ⚡ Fun fact: I <strong>automate</strong> boring tasks with Python scripts<br>
-  - 💬 Ask me about: <strong>Django, HTMX, or Tailwind tricks</strong><br>
-  - 📫 How to reach me: <strong>[YOUR_EMAIL]</strong>
+  - 🔭 Building <strong>high-performance web apps</strong> with Django & HTMX<br>
+  - 📚 Mastering <strong>Django REST Framework, Celery, Redis</strong> & <strong>async Python</strong><br>
+  - ⚡ Fun fact: I <strong>automate</strong> repetitive tasks with Python scripts<br>
+  - 💬 Ask me about: <strong>Django optimization, HTMX magic, or Tailwind best practices</strong><br>
+  - 📫 How to reach me: <strong>developerkevo@gmail.com</strong>
 </p>
 
 ###
 
-<h3 align="left">🛠️ Tech Stack</h3>
+<h3 align="left">🛠️ My Tech Stack</h3>
 
 ###
 
 <div align="left">
-  <!-- Python -->
+  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <!-- Django -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
   <img width="12" />
-  <!-- HTMX (custom badge) -->
-  <img src="https://img.shields.io/badge/HTMX-5A0FC8?logo=htmx&logoColor=white&style=flat" height="40" alt="htmx logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" height="40" alt="celery logo" />
   <img width="12" />
-  <!-- Tailwind -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
   <img width="12" />
-  <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
-  <!-- Docker -->
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTMX-5A0FC8?logo=htmx&logoColor=white&style=flat" height="40" alt="htmx logo" />
+  <img width="12" />
+  <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 </div>
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
+<h3 align="left">🔥 My GitHub Stats</h3>
 
 ###
 
 <div align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=DeveloperKevo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeveloperKevo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=DeveloperKevo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeveloperKevo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=DeveloperKevo&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
